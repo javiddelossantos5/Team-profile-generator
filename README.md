@@ -20,7 +20,7 @@ npm install inquirer
 ```
     
 ## Usage
-After cloning the repo and installing the required npm packages, use the command line to navigate to the root of the application and run `node index`.  Follow prompts to add team members to your roster.  Only one manager can be added per team.  Your generated team roster page will be created in the `./dist` folder. 
+After cloning the repo and installing the required npm packages, use the command line to navigate to the root of the application and run `app index`.  Follow prompts to add team members to your roster.  Only one manager can be added per team.  Your generated team roster page will be created in the `./dist` folder. 
     
 
 ### Screenshots
@@ -41,6 +41,11 @@ and run `npm run test` from the command line.
     
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/javiddelossantos5) or contact me via email at javiddelossantos5@gmail.com. You can find more of my work on my GitHub, [javiddelossantos5](https://github.com/javiddelossantos5/).
+
+## Demo
+since this application is run through the terminal, there is no website to view. To see how this application works, please follow the link below to view a walkthrough video.
+
+<a href="https://drive.google.com/file/d/1ioYNdYE-hckdsu_jZ71g-0X3K1inCW6I/view?usp=sharing" target="_blank">Click here to watch the video!</a>
     
 ## Credits
 * Styles for the generated page powered by [Bulma](https://bulma.io/).
